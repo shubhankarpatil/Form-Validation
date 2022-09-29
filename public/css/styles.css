@@ -63,21 +63,6 @@ button{
    border-radius: 5px;
    cursor: pointer;
 }
-/* .social{
- margin-top: 30px;
- display: flex;
-}
-.social div{
- width: 100%;
- border-radius: 3px;
- padding: 5px 10px 10px 5px;
- background-color: rgba(255,255,255,0.27);
- text-align: center;
- background-color: #9b59b6;
-}
-.social i{
- margin-right: 4px;
-} */
 .form-control {
 	margin-bottom: 10px;
 	padding-bottom: 20px;
